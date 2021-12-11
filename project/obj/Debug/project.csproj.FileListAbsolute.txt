@@ -1,0 +1,27 @@
+C:\Users\student1\Desktop\МДК 01.01\project\bin\Debug\project.exe.config
+C:\Users\student1\Desktop\МДК 01.01\project\bin\Debug\project.exe
+C:\Users\student1\Desktop\МДК 01.01\project\bin\Debug\project.pdb
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.Form1.resources
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.exe
+C:\Users\student1\Desktop\МДК 01.01\project\obj\Debug\project.pdb
+C:\Users\student1\Desktop\project\bin\Debug\project.exe.config
+C:\Users\student1\Desktop\project\bin\Debug\project.exe
+C:\Users\student1\Desktop\project\bin\Debug\project.pdb
+C:\Users\student1\Desktop\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\student1\Desktop\project\obj\Debug\project.Form1.resources
+C:\Users\student1\Desktop\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\student1\Desktop\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\student1\Desktop\project\obj\Debug\project.exe
+C:\Users\student1\Desktop\project\obj\Debug\project.pdb
+F:\МДК 01.01\project\bin\Debug\project.exe.config
+F:\МДК 01.01\project\bin\Debug\project.exe
+F:\МДК 01.01\project\bin\Debug\project.pdb
+F:\МДК 01.01\project\obj\Debug\project.csprojAssemblyReference.cache
+F:\МДК 01.01\project\obj\Debug\project.Form1.resources
+F:\МДК 01.01\project\obj\Debug\project.Properties.Resources.resources
+F:\МДК 01.01\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\МДК 01.01\project\obj\Debug\project.exe
+F:\МДК 01.01\project\obj\Debug\project.pdb
